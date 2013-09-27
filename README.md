@@ -3,7 +3,7 @@ EMSubtitles
 
 Extract and merge subtitles from .mkv file
 
-This programm is wrapper under mkvtoolnix. You can extract subtitles from mkv file and merge there.
+This tool is wrapper over mkvtoolnix. You can extract subtitles from mkv file and merge there.
 When you watch movie you can read subtitles in different languages at the same time.
 
 
